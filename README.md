@@ -41,7 +41,7 @@
 ---
 
 ### 1. 2021 캐글 머신러닝 & 데이터 사이언스 대회
-  - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021)
+  - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/blob/main/Kaggle_Survey_2021/Kaggle_Survey_2021.pdf)
   - 기간 : 2021.10.14 ~ 2021.11.29
   - 사용언어 : Python
   - 사용 라이브러리 : plotly
