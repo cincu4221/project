@@ -39,3 +39,12 @@
 ## 프로젝트
 
 ---
+
+### 1. 2021 캐글 머신러닝 & 데이터 사이언스 대회
+  - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/tree/main/Kaggel_Survey_2021)
+  - 기간 : 2021.10.14 ~ 2021.11.29
+  - 사용언어 : Python
+  - 사용 라이브러리 : plotly
+  - 사용 툴 : Kaggle Notebook
+  - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler를 비교, 분석을 바탕으로 향후 예측.
+  - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggel_Survey_2021/Kaggle_Survey_2021.pdf)
