@@ -23,6 +23,11 @@
  - [2019년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2019/data)
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
 
+## Notebook URL
+
+---
+
+## [The latest trends in East Asia, Japan and China](https://www.kaggle.com/kwdoku145/the-latest-trends-in-east-asia-japan-and-china)
 
 
 
