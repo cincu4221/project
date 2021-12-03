@@ -1,5 +1,7 @@
 # 2021 캐글 머신러닝 & 데이터 사이언스 대회
 
+![](img/Kaggle_survey_2021.png) 
+
 ## 목표 
 
 ---
@@ -9,8 +11,8 @@
 
 ---
 - 사용언어 : Python
-- 사용 라이브러리 : pandas, plotly
-- 사용 툴 : Kaggle Notebook
+- 사용 라이브러리 : Pandas, Numpy, plotly
+- 사용 툴 : Kaggle Notebook, Google Colaboratory
 
 ## 데이터
 
@@ -20,4 +22,8 @@
 
  - [2019년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2019/data)
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
+
+
+
+
 
