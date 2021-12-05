@@ -50,5 +50,5 @@
   - 사용언어 : Python
   - 사용 라이브러리 : plotly
   - 사용 툴 : Kaggle Notebook
-  - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler를 비교, 분석을 바탕으로 향후 예측.
+  - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler를 비교, 분석을 바탕으로 향후 예측
   - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021/docs/Kaggle_Survey_2021.pdf)
