@@ -25,22 +25,19 @@
 
 ## 데이터
 
-Download Data 버튼을 클릭하거나 아래의 페이지에서 Download All 을 클릭하면 다운로드가 가능하다.
+Download Data 를 클릭하거나 아래의 페이지에서 Download All 을 클릭하면 다운로드가 가능하다.
 
  
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
 
 <a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip"><button>Download Data</button></a>
 
-<form method="get" action="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip">
-    <button>Download Data</button>
-</form>
 
-## Notebook URL
+## Heroku 배포 URL
 
 
 
-## [The latest trends in East Asia, Japan and China](https://www.kaggle.com/kwdoku145/the-latest-trends-in-east-asia-japan-and-china)
+[2021 Kaggle Survey Dashboard](https://kagglesurvey2021dashboard.herokuapp.com/)
 
 
 
