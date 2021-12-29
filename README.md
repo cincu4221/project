@@ -55,7 +55,7 @@
 
 
 ### 2. 2021 Kaggle Survey 대시보드 배포
-  - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021)
+  - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
   - 기간 : 2021.12.20 ~ 2021.12.28
   - 사용언어 : Python
   - 사용 라이브러리: Plotly, Pandas, Numpy, Dash 외
