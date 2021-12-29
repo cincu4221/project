@@ -30,9 +30,9 @@
  
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
 
-<a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip">
-    <button>Download Data</button>
-</a>
+
+
+<a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip"><button>Download Data</button></a>
 
 ## Notebook URL
 
