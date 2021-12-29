@@ -61,4 +61,4 @@
   - 사용 라이브러리: Plotly, Pandas, Numpy, Dash 외
   - 배포 서비스 : Heroku
   - 내용 : 2021 Kaggle Survey 의 데이터를 바탕으로 시각화, 피벗테이블을 통해 대시보드 제작 및 배포
-  - [최종 PDF다운로드]
+  - [최종 PDF다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021_Dashboard_Distribute/docs/Kaggle_Survey_2021_Dashboard_Distribute.pdf)
