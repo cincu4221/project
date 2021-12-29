@@ -33,7 +33,7 @@ Download Data 를 클릭하거나 아래의 페이지에서 Download All 을 클
 <a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip"><button>Download Data</button></a>
 
 
-## Heroku 배포 URL
+## Kaggle Dashboard URL
 
 
 
