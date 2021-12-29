@@ -25,13 +25,13 @@
 
 ## 데이터
 
- 아래의 페이지에서 Download All 을 클릭하면 다운로드가 가능하다.
+ Download Data 버튼을 클릭하거나 아래의 페이지에서 Download All 을 클릭하면 다운로드가 가능하다.
 
  
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
 
 <a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip">
-    <button type="button">Download Data</button>
+    <button>Download Data</button>
 </a>
 
 ## Notebook URL
