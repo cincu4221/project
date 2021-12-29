@@ -27,10 +27,8 @@
 
 Download Data 를 클릭하거나 아래의 페이지에서 Download All 을 클릭하면 다운로드가 가능하다.
 
- 
+ - <a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip"><button>Download Data</button></a>
  - [2021년 데이터 다운로드 페이지](https://www.kaggle.com/c/kaggle-survey-2021/data)
-
-<a href="https://github.com/cincu4221/kagglesurvey2021dashboard/raw/main/data/kaggle-survey-2021.zip"><button>Download Data</button></a>
 
 
 ## Kaggle Dashboard URL
