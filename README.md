@@ -46,19 +46,22 @@
 ### 1. 2021 캐글 머신러닝 & 데이터 사이언스 대회
   - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021)
   - 대회명 : [2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2021/overview)
-  - 기간 : 2021.10.14 ~ 2021.11.29
+  - 대회기간 : 2021.10.14 ~ 2021.11.29
+  - 제작기간 : 2021.11.15 ~ 2021.11.29
+  - 제작인원 : 3명(전우정, 권도근, 김태용)
   - 사용언어 : Python
-  - 사용 라이브러리 : Plotly
+  - 사용 라이브러리 : Plotly, Pandas 외
   - 사용 툴 : Kaggle Notebook
-  - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler를 비교, 분석을 바탕으로 향후 예측
+  - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler 를 비교, 분석을 바탕으로 향후 예측
   - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021/docs/Kaggle_Survey_2021.pdf)
 
 
 ### 2. 2021 Kaggle Survey 대시보드 배포
   - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
-  - 기간 : 2021.12.20 ~ 2021.12.28
+  - 제작기간 : 2021.12.20 ~ 2021.12.28
+  - 제작인원 : 1명(전우정)
   - 사용언어 : Python
   - 사용 라이브러리: Plotly, Pandas, Numpy, Dash 외
-  - 배포 서비스 : Heroku
+  - 배포 플랫폼 : Heroku
   - 내용 : 2021 Kaggle Survey 의 데이터를 바탕으로 시각화, 피벗테이블을 통해 대시보드 제작 및 배포
-  - [최종 PDF다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021_Dashboard_Distribute/docs/Kaggle_Survey_2021_Dashboard_Distribute.pdf)
+  - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021_Dashboard_Distribute/docs/Kaggle_Survey_2021_Dashboard_Distribute.pdf)
