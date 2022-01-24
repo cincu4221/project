@@ -42,9 +42,9 @@
 
 ### 1. 카카오톡 클론 코딩
   - 폴더명 : [kakaoclone-github](https://github.com/cincu4221/kakaoclone-github)
-  - 제작기간 : 약 1주
+  - 제작기간 : 2021.10.04 ~ 2021.10.08
   - 제작인원 : 1명(전우정)
-  - 사용언어 : HTML, CSS
+  - 사용언어 : HTML, CSS, Javascript
   - 배포 플랫폼 : Heroku
   - 배포 URL : [KakaoClone URL](https://kakaoclone-github.herokuapp.com/index.html)
   - 내용 : HTML, CSS의 이해를 위해 카카오톡의 모바일 UI를 클론코딩
