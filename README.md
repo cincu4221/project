@@ -72,12 +72,12 @@
   - 배포 URL : [Kaggle Dashboard URL](https://kagglesurvey2021dashboard.herokuapp.com/)
   - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021_Dashboard_Distribute/docs/Kaggle_Survey_2021_Dashboard_Distribute.pdf)
 
-### 4. BTC Village
+### 4. BTC Village 모의 가상화폐 거래소
   - 폴더명 : [BTC Village](https://github.com/cincu4221/project/tree/main/BTCvillage)
   - 제작기간 : 2022.01.10 ~ 2022.01.21
   - 제작인원 : 2명(윤정호, 전우정)
   - 사용언어 : Python, JS, CSS 외
-  - 사용 프레임워크: django
+  - 사용 프레임워크 : django, Bootstrap
   - 내용 : 가상화폐 거래소, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
   - 배포 플랫폼 : AWS(EC2)
   - 배포 URL : [BTC Village](http://btc-village.com/)

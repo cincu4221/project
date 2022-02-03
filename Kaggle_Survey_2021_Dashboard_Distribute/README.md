@@ -35,7 +35,7 @@ Download Data 를 클릭하거나 아래의 페이지에서 Download All 을 클
 
 
 
-[2021 Kaggle Survey Dashboard](https://kagglesurvey2021dashboard.herokuapp.com/)
+- [2021 Kaggle Survey Dashboard](https://kagglesurvey2021dashboard.herokuapp.com/)
 
 
 
