@@ -77,7 +77,7 @@
   - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
   - 제작기간 : 2022.01.10 ~ 2022.01.21
   - 제작인원 : 2명(윤정호, 전우정)
-  - 사용언어 : Python, JS 외
+  - 사용언어 : Python, JS, CSS 외
   - 사용 프레임워크: django
   - 내용 : 가상화폐 거래소 구현, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
   - 배포 플랫폼 : AWS(EC2)
