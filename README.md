@@ -48,7 +48,7 @@
   - 배포 플랫폼 : Heroku
   - 배포 URL : [KakaoClone URL](https://kakaoclone-github.herokuapp.com/index.html)
   - 내용 : HTML, CSS의 이해를 위해 카카오톡의 모바일 UI를 클론코딩
-
+  
 ### 2. 2021 캐글 머신러닝 & 데이터 사이언스 대회
   - 폴더명 : [Kaggle_Survey_2021](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021)
   - 대회명 : [2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2021/overview)
@@ -60,8 +60,7 @@
   - 사용 툴 : Kaggle Notebook
   - 내용 : 2019년과 2021년의 일본, 중국의 Kaggler 를 비교, 분석을 바탕으로 향후 예측
   - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021/docs/Kaggle_Survey_2021.pdf)
-
-
+  
 ### 3. 2021 Kaggle Survey 대시보드 배포
   - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
   - 제작기간 : 2021.12.20 ~ 2021.12.28
@@ -74,11 +73,11 @@
   - [최종 PDF 다운로드](https://github.com/cincu4221/project/raw/main/Kaggle_Survey_2021_Dashboard_Distribute/docs/Kaggle_Survey_2021_Dashboard_Distribute.pdf)
 
 ### 4. BTC Village
-  - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
+  - 폴더명 : [BTC Village](https://github.com/cincu4221/project/tree/main/BTCvillage)
   - 제작기간 : 2022.01.10 ~ 2022.01.21
   - 제작인원 : 2명(윤정호, 전우정)
   - 사용언어 : Python, JS, CSS 외
   - 사용 프레임워크: django
-  - 내용 : 가상화폐 거래소 구현, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
+  - 내용 : 가상화폐 거래소, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
   - 배포 플랫폼 : AWS(EC2)
   - 배포 URL : [BTC Village](http://btc-village.com/)
