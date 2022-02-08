@@ -14,7 +14,7 @@
   - Bootstrap(3.3.2)
 - 사용 에디터 : Visual Studio Code(1.63.2)
 - 사용 DB : amazon web DB
-- 배포 플랫폼 : AWS(EC2)
+- 배포 플랫폼 : AWS(EC2) 
 
 ## BTC Village URL
 - [BTC Village](http://btc-village.com/)
