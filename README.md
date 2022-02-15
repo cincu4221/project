@@ -79,4 +79,4 @@
   - 내용 : 가상화폐 거래소, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
   - 배포 플랫폼 : AWS(EC2)
   - 배포 URL : [BTC Village](http://btc-village.com/)
-  - ID : asdf1234 PW : kGHz6QDJXQuiERc 로 로그인 가능
+  - **ID : asdf1234 PW : kGHz6QDJXQuiERc 로 로그인 가능**
