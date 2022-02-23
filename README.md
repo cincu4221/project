@@ -4,7 +4,7 @@
 2. [자격증](#자격증)
 3. [재직활동](#재직활동)
 4. [아르바이트](#아르바이트)
-5. [프로젝트 및 포트폴리오](#프로젝트-및-포트폴리오)
+5. **<span style="font-size:20px">[프로젝트 및 포트폴리오](#프로젝트-및-포트폴리오)</span>**
 
 ## 학력
 
@@ -87,4 +87,4 @@
   - 내용 : 가상화폐 거래소, API를 통한 실시간 BTC차트 표시, 지정가 알림, 모의투자 등을 구현
   - 배포 플랫폼 : AWS(EC2)
   - 배포 URL : [BTC Village](http://btc-village.com/)
-  - **ID : asdf1234 PW : kGHz6QDJXQuiERc 로 로그인 가능**
+  - **<span style="font-size:22px">ID : asdf1234 PW : kGHz6QDJXQuiERc 로 로그인 가능</span>**
