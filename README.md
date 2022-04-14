@@ -49,7 +49,7 @@
 ### 1. 카카오톡 클론 코딩
   - 폴더명 : [kakaoclone-github](https://github.com/cincu4221/kakaoclone-github)
   - 제작기간 : 2021.10.04 ~ 2021.10.08
-  - 제작인원 : 1명(전우정)
+  - 제작인원 : 1명
   - 사용언어 : HTML, CSS, Javascript
   - 배포 플랫폼 : Heroku
   - 배포 URL : [KakaoClone URL](https://kakaoclone-github.herokuapp.com/index.html) (배포 플랫폼 특성으로 페이지 로드에 약 20초 소요)
@@ -70,7 +70,7 @@
 ### 3. 2021 Kaggle Survey 대시보드 배포
   - 폴더명 : [Kaggle_Survey_2021_Dashboard_Distribute](https://github.com/cincu4221/project/tree/main/Kaggle_Survey_2021_Dashboard_Distribute)
   - 제작기간 : 2021.12.20 ~ 2021.12.28
-  - 제작인원 : 1명(전우정)
+  - 제작인원 : 1명
   - 사용언어 : Python, HTML(dash_html_components), CSS
   - 사용 라이브러리: Plotly, Pandas, Numpy, Dash 외
   - 내용 : 2021 Kaggle Survey 의 데이터를 바탕으로 시각화, 피벗테이블을 통해 대시보드 제작 및 배포
@@ -88,3 +88,11 @@
   - 배포 플랫폼 : AWS(EC2)
   - 배포 URL : [BTC Village](http://btc-village.com/)
   - **<span style="font-size:22px">ID : asdf1234 PW : kGHz6QDJXQuiERc 로 로그인 가능</span>**
+
+### 5. JAVA, JSP 활용 웹 사이트 제작 및 배포
+ - 제작기간 : 2022.03
+ - 제작인원 : 1명
+ - 사용언어 : JAVA, JSP
+ - 내용 : JAVA, JSP 를 이용해 회원가입, 게시판 기능을 구현
+ - 배포 플랫폼 : AWS(EC2)
+ - 배포 URL: [BBSwebsite](http://wj-jspworld.site/main.jsp)
