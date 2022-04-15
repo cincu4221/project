@@ -93,6 +93,8 @@
  - 제작기간 : 2022.03
  - 제작인원 : 1명
  - 사용언어 : JAVA, JSP
+ - 웹 서버 : ApacheTomcat
  - 내용 : JAVA, JSP 를 이용해 회원가입, 게시판 기능을 구현
+ - 개발환경 : Eclipse
  - 배포 플랫폼 : AWS(EC2)
- - 배포 URL: [BBSwebsite](http://wj-jspworld.site/main.jsp)
+ - 배포 URL : [BBSwebsite](http://wj-jspworld.site/main.jsp)
